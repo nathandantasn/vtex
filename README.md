@@ -1,3 +1,15 @@
+# Gestão de Cadastros
+
+Neste repositório contém um site que salva no localstorage a compra que o usuário efetuou, ao clicar no botão "adicionar ao carrinho".
+
+No LocalStorage é salvo o id a foto, nome, descrição e preço do produto.
+
+O site ainda está em desenvolvimento, por hora não deu tempo de acrescentar muitas coisas nele, o tempo foi muito curto.
+
+Obs: não consegui publicar o site funcionando, sugiro baixar o arquivo
+
+Link para o site: [Gestão de Cadastros (puzzlesgames.netlify.app)](https://puzzlesgames.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

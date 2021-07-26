@@ -1,0 +1,39 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://lojagrow.vteximg.com.br/arquivos/ids/169435-1000-1000/04111_GROW_P500_Space_Jam.jpg?v=637623045795630000",
+            "name": "Puzzle 500 peças Space Jam",
+            "description": "A partir de 10 anos",
+            "price": 64.99
+        },
+        {
+            "id": 2,
+            "photo": "https://lojagrow.vteximg.com.br/arquivos/ids/169426-1000-1000/04049_GROW_P5000_Brittos_Gardens.png?v=6376170081324700000",
+            "name": "Puzzle 5000 Peças Romero Britto - Britto's Garden",
+            "description": "A partir de 14 anos",
+            "price": 249.99
+        },
+        {
+            "id": 3,
+            "photo": "https://lojagrow.vteximg.com.br/arquivos/ids/168755-1000-1000/03951_GROW_Colorix.png?v=637491671907330000",
+            "name": "Jogo Colorix",
+            "description": "A partir de 3 anos",
+            "price": 79.99
+        },
+        {
+            "id": 4,
+            "photo": "https://lojagrow.vteximg.com.br/arquivos/ids/169427-1000-1000/04053_GROW_P6000_Alpes_Italianos.png?v=637617009818130000",
+            "name": "Puzzle 6000 peças Alpes Italianos",
+            "description": "A partir de 14 anos",
+            "price": 299.99
+        },
+        {
+            "id": 5,
+            "photo": "https://lojagrow.vteximg.com.br/arquivos/ids/168592-1000-1000/01428_GROW_Caixa_De_Magicas.png?v=637487471888130000",
+            "name": "Caixa de Mágicas",
+            "description": "A partir de 8 anos",
+            "price": 59.99
+        }
+    ]
+}
